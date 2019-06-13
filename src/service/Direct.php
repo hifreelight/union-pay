@@ -1,10 +1,10 @@
 <?php
-namespace zhangv\unionpay\service;
-use zhangv\unionpay\UnionPay;
+namespace hifreelight\unionpay\service;
+use hifreelight\unionpay\UnionPay;
 /**
  * 无跳转支付(标准版)
  * @license MIT
- * @author zhangv
+ * @author hifreelight
  * @link https://open.unionpay.com/ajweb/product/newProDetail?proId=2&cataId=20
  * @method mixed updatePublicKey($orderId, $ext = [])
  * @method mixed query($orderId, $txnTime, $ext = [])

@@ -1,7 +1,7 @@
 <?php
 
 require_once __DIR__ . "/autoload.php";
-use zhangv\unionpay\UnionPay;
+use hifreelight\unionpay\UnionPay;
 
 $config = include './config.php';
 list($mode, $config) = include './config.php';

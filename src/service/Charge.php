@@ -1,10 +1,10 @@
 <?php
-namespace zhangv\unionpay\service;
-use zhangv\unionpay\UnionPay;
+namespace hifreelight\unionpay\service;
+use hifreelight\unionpay\UnionPay;
 /**
  * 缴费产品
  * @license MIT
- * @author zhangv
+ * @author hifreelight
  * @link https://open.unionpay.com/ajweb/product/newProApiList?proId=76
  * */
 class Charge extends UnionPay {

@@ -1,15 +1,15 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: derekzhangv
+ * User: derekhifreelight
  * Date: 2018/4/10
  * Time: 10:52
  */
-use zhangv\unionpay\UnionPay;
+use hifreelight\unionpay\UnionPay;
 use PHPUnit\Framework\TestCase;
 
 class TokenTest extends TestCase{
-	/** @var  \zhangv\unionpay\service\Token */
+	/** @var  \hifreelight\unionpay\service\Token */
 	private $unionPay;
 	private $config;
 	public function setUp(){

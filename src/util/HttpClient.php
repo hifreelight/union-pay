@@ -1,9 +1,9 @@
 <?php
 /**
  * @license MIT
- * @author zhangv
+ * @author hifreelight
  */
-namespace zhangv\unionpay\util;
+namespace hifreelight\unionpay\util;
 
 class HttpClient {
 

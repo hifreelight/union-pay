@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: derekzhangv
+ * User: derekhifreelight
  * Date: 2018/5/7
  * Time: 11:51
  */
 
-use zhangv\unionpay\UnionPay;
+use hifreelight\unionpay\UnionPay;
 use PHPUnit\Framework\TestCase;
 
 class UnionPayTest extends TestCase{

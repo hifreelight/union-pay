@@ -1,16 +1,16 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: derekzhangv
+ * User: derekhifreelight
  * Date: 2018/4/10
  * Time: 10:52
  */
 require_once __DIR__ . "/../../demo/autoload.php";
-use zhangv\unionpay\UnionPay;
+use hifreelight\unionpay\UnionPay;
 use PHPUnit\Framework\TestCase;
 
 class DirectTest extends TestCase{
-	/** @var  \zhangv\unionpay\service\Direct */
+	/** @var  \hifreelight\unionpay\service\Direct */
 	private $unionPay;
 	private $config;
 	public function setUp(){

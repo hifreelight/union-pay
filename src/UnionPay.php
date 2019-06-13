@@ -1,13 +1,13 @@
 <?php
-namespace zhangv\unionpay;
+namespace hifreelight\unionpay;
 
 use \Exception;
-use zhangv\unionpay\util\HttpClient;
+use hifreelight\unionpay\util\HttpClient;
 
 /**
  * 银联支付
  * @license MIT
- * @author zhangv
+ * @author hifreelight
  *
  * @method static service\App              App(array $config,string $mode)
  * @method static service\B2B              B2B(array $config,string $mode)

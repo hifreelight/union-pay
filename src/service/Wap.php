@@ -1,11 +1,11 @@
 <?php
-namespace zhangv\unionpay\service;
-use zhangv\unionpay\UnionPay;
+namespace hifreelight\unionpay\service;
+use hifreelight\unionpay\UnionPay;
 
 /**
  * 手机网页支付
  * @license MIT
- * @author zhangv
+ * @author hifreelight
  * @link https://open.unionpay.com/ajweb/product/detail?id=66
  * @method mixed query($orderId, $txnTime, $ext = [])
  * @method mixed fileDownload($settleDate, $fileType)

@@ -1,5 +1,5 @@
 <?php
-use zhangv\unionpay\util\HttpClient;
+use hifreelight\unionpay\util\HttpClient;
 use PHPUnit\Framework\TestCase;
 
 class HttpClientTest extends TestCase{

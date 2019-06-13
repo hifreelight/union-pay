@@ -1,15 +1,15 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: derekzhangv
+ * User: derekhifreelight
  * Date: 01/02/2018
  * Time: 22:29
  */
 
-use zhangv\unionpay\UnionPay;
+use hifreelight\unionpay\UnionPay;
 
 class B2BTest extends PHPUnit\Framework\TestCase{
-	/** @var  \zhangv\unionpay\service\B2B */
+	/** @var  \hifreelight\unionpay\service\B2B */
 	private $unionPay;
 
 	public function setUp(){

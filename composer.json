@@ -40,12 +40,12 @@
   },
   "autoload": {
     "psr-4": {
-      "zhangv\\unionpay\\": "src/"
+      "hifreelight\\unionpay\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "zhangv\\unionpay\\Test\\": "test/"
+      "hifreelight\\unionpay\\Test\\": "test/"
     }
   },
   "scripts": {

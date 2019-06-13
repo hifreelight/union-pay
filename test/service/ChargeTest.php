@@ -1,15 +1,15 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: derekzhangv
+ * User: derekhifreelight
  * Date: 01/02/2018
  * Time: 22:29
  */
 
-use zhangv\unionpay\UnionPay;
+use hifreelight\unionpay\UnionPay;
 
 class ChargeTest extends PHPUnit\Framework\TestCase{
-	/** @var  \zhangv\unionpay\service\Charge */
+	/** @var  \hifreelight\unionpay\service\Charge */
 	private $unionPay;
 	private $config;
 

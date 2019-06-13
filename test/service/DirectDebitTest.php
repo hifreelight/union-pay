@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . "/../../demo/autoload.php";
-use zhangv\unionpay\UnionPay;
-use zhangv\unionpay\service\DirectDebit;
+use hifreelight\unionpay\UnionPay;
+use hifreelight\unionpay\service\DirectDebit;
 use PHPUnit\Framework\TestCase;
 
 class DirectDebitTest extends TestCase{

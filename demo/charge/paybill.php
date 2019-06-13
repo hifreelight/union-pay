@@ -2,7 +2,7 @@
 
 require_once __DIR__ . "/../autoload.php";
 
-use zhangv\unionpay\UnionPay;
+use hifreelight\unionpay\UnionPay;
 
 list($mode, $config) = include '../config-direct.php';
 $unionPay = UnionPay::Charge($config, $mode);

@@ -1,10 +1,10 @@
 <?php
-namespace zhangv\unionpay\service;
-use zhangv\unionpay\UnionPay;
+namespace hifreelight\unionpay\service;
+use hifreelight\unionpay\UnionPay;
 /**
  * 银联手机App支付、ApplePay
  * @license MIT
- * @author zhangv
+ * @author hifreelight
  * @link https://open.unionpay.com/ajweb/product/newProApiList?proId=3
  *
  * @method mixed updatePublicKey($orderId, $ext = [])
