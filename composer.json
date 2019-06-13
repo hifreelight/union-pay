@@ -1,20 +1,20 @@
 {
-  "name": "zhangv/union-pay",
+  "name": "hifreelight/union-pay",
   "description": "The simplest union pay",
   "keywords": ["unionpay","银联支付","银联","银联网关支付","银联代收","银联全渠道","银联移动支付","银联无跳转支付","银联B2B"],
-  "homepage": "https://github.com/zhangv/union-pay",
+  "homepage": "https://github.com/hifreelight/union-pay",
   "license": "MIT",
   "authors": [
     {
-      "name": "ZhangV",
-      "email": "derekzhangv@gmail.com",
-      "homepage": "https://zhangv.com",
+      "name": "Frank",
+      "email": "fengxuting@gmail.com",
+      "homepage": "https://www.liangcuntu.com",
       "role": "Developer"
     }
   ],
   "support": {
-    "source": "https://github.com/zhangv/union-pay",
-    "issues": "https://github.com/zhangv/union-pay/issues"
+    "source": "https://github.com/hifreelight/union-pay",
+    "issues": "https://github.com/hifreelight/union-pay/issues"
   },
   "require": {
     "php": ">=5.6",

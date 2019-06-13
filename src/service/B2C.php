@@ -35,7 +35,7 @@ class B2C extends UnionPay {
 			'txnTime' => date('YmdHis'),
 		],$ext);
 		$params['signature'] = $this->sign($params);
-		return $this->createPostForm($params,'支付',$this->frontTransUrl, $serverSide);
+		return $this->createPostForm($params,'支付',$this->apiEndpoint . $this->frontTransUrl, $serverSide);
 	}
 
 	/**
