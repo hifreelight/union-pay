@@ -1,8 +1,8 @@
 # UnionPay - 银联支付
-[![Latest Stable Version](https://poser.pugx.org/zhangv/union-pay/v/stable)](https://packagist.org/packages/zhangv/union-pay)
-[![License](https://poser.pugx.org/zhangv/union-pay/license)](https://packagist.org/packages/zhangv/union-pay)
-[![Build Status](https://travis-ci.org/zhangv/union-pay.svg?branch=master)](https://travis-ci.org/zhangv/union-pay)
-[![codecov](https://codecov.io/gh/zhangv/union-pay/branch/master/graph/badge.svg)](https://codecov.io/gh/zhangv/union-pay)
+[![Latest Stable Version](https://poser.pugx.org/hifreelight/union-pay/v/stable)](https://packagist.org/packages/hifreelight/union-pay)
+[![License](https://poser.pugx.org/hifreelight/union-pay/license)](https://packagist.org/packages/hifreelight/union-pay)
+[![Build Status](https://travis-ci.org/hifreelight/union-pay.svg?branch=master)](https://travis-ci.org/hifreelight/union-pay)
+[![codecov](https://codecov.io/gh/hifreelight/union-pay/branch/master/graph/badge.svg)](https://codecov.io/gh/hifreelight/union-pay)
 
 simplest union pay - no dependency to any library, simple enough to let you hack.
 
@@ -20,14 +20,14 @@ simplest union pay - no dependency to any library, simple enough to let you hack
 
 ### Install
 ```
-composer require zhangv/union-pay
+composer require hifreelight/union-pay
 ```
 or
 
 add:
 
 ```
-"zhangv/union-pay":"0.8.12"
+"hifreelight/union-pay":"0.8.12"
 ```
 in composer.json
 
